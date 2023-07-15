@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/propeller/static/css/main.b5628f68.css",
+    "main.js": "/propeller/static/js/main.b77f3713.js",
+    "static/js/787.28cb0dcd.chunk.js": "/propeller/static/js/787.28cb0dcd.chunk.js",
+    "static/media/propeller.svg": "/propeller/static/media/propeller.86a4602c9f75372c7f420d479046eff3.svg",
+    "index.html": "/propeller/index.html",
+    "main.b5628f68.css.map": "/propeller/static/css/main.b5628f68.css.map",
+    "main.b77f3713.js.map": "/propeller/static/js/main.b77f3713.js.map",
+    "787.28cb0dcd.chunk.js.map": "/propeller/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5628f68.css",
+    "static/js/main.b77f3713.js"
+  ]
+}
